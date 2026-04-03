@@ -150,6 +150,6 @@ All 9 plots are auto-saved to the `plots/` folder when you run the pipeline:
 
 ## 👤 Author
 
-**[Your Name]**  
+**Suyog Mishra**  
 Internship at Codec Technologies  
 📧 Contact: vaishali@codectechnologies.in
