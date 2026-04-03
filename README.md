@@ -148,8 +148,4 @@ All 9 plots are auto-saved to the `plots/` folder when you run the pipeline:
 
 ---
 
-## 👤 Author
 
-**Suyog Mishra**  
-Internship at Codec Technologies  
-📧 Contact: vaishali@codectechnologies.in
